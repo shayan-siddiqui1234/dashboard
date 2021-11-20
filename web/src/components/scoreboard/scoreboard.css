@@ -1,0 +1,18 @@
+
+    body{
+        background-color: rgb(240, 213, 243);
+    background-image: url(https://images.unsplash.com/photo-1585822754398-04873d4e1f50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGNyaWNrZXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+    
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    color: rgb(8, 8, 8)
+    }
+    #border{
+    border-style: double;
+    border-color: rgb(146, 150, 151);
+
+    }
+
+#main{ 
+    box-shadow: 10px;
+}
